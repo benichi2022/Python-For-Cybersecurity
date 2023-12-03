@@ -4,4 +4,4 @@
 
 # Building counter-offensive tools as part of a defensive operations
 
-# Guide - Mitre Frameworks
+# Guide - MITRE Frameworks
